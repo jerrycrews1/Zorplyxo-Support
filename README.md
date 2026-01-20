@@ -26,7 +26,7 @@ Yes. Zorplyxo supports multiple habits (for example: swearing, stress eating, do
 	•	From a Home Screen widget
 	•	Using Siri Shortcuts (for a specific habit)
 
-###How do I export my data?
+### How do I export my data?
 
 #### Open Zorplyxo → Settings → Export → choose:
 	•	Weekly summary (plain text)
