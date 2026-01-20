@@ -1,6 +1,4 @@
-# Zorplyxo-SupportCorrect. If Zorplyxo is using CloudKit-backed SwiftData, then the README needs to reflect that accurately.
-
-## Zorplyxo Support
+# Zorplyxo Support
 
 Zorplyxo is a behavior telemetry app for iPhone designed to help users reduce bad habits by logging slips and surfacing trigger patterns.
 
